@@ -1,0 +1,23 @@
+body{
+background-image: url("Minimalism_In_Literature0.png");
+background-repeat: repeat-y;
+}
+
+#milh {
+margin-left:900px;
+font-family:helvetica;
+font-size:24px;
+}
+
+#sb{
+margin-left:900px;
+font-family:helvetica;
+font-size:22px;
+}
+
+p{
+margin-left: 900px;
+font-family: helvetica;
+font-size:20px;
+color:#black;
+}
